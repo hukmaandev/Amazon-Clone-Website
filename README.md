@@ -3,19 +3,17 @@
 <!-- ABOUT THE PROJECT -->
 
  About The Project
+ 
+-Developed a responsive Amazon Clone using HTML, CSS, and JavaScript replicating key UI components. 
+-Implemented features like a dynamic navbar, product carousels, and a search bar for better UX.
+-Ensured mobile responsiveness and optimized performance with modern CSS techniques
 
-> Amazone is a clone of the amazon website, which I created by following
-> SuperSimpleDev's JavaScript course. I'm studying a course to enhance
-> my understanding of JavaScript fundamentals and advanced patterns,
-> while acknowledging that I do not have full ownership of this content.
-> This website is derived from the course's author and from my personal
-> code optimizations and refactorizations.
 
 <!-- FEATURES -->
 
  Features
 
-- Full e-commerce display with 40+ products
+- Full e-commerce displaying the products
 - Functional add to cart buttons
 - Functional cart
 - Functional checkout page

@@ -4,10 +4,9 @@
 
  About The Project
  
--Developed a responsive Amazon Clone using HTML, CSS, and JavaScript replicating key UI components. 
--Implemented features like a dynamic navbar, product carousels, and a search bar for better UX.
--Ensured mobile responsiveness and optimized performance with modern CSS techniques
-
+- Developed a responsive Amazon Clone using HTML, CSS, and JavaScript replicating key UI components. 
+- Implemented features like a dynamic navbar, product carousels, and a search bar for better UX.
+- Ensured mobile responsiveness and optimized performance with modern CSS techniques.
 
 <!-- FEATURES -->
 
